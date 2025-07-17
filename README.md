@@ -1,7 +1,7 @@
 # 🌟 توازن - منصة العادات والأهداف العربية
 
 <div align="center">
-<img src="public\logo.png" alt="Tawazun Logo" width="100" height="100" />
+<img src="public\logo.png" alt="Tawazun Logo" width="200" height="200" />
 
 <!-- Badges Section -->
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
