@@ -254,7 +254,7 @@ tawazun-platform/
 
 ### 🌐 الروابط الرسمية
 
-- **الموقع الرسمي**: [Tawazun](https://tawazun.bnramadan.com))
+- **الموقع الرسمي**: [Tawazun](https://tawazun.bnramadan.com)
 
 ---
 
