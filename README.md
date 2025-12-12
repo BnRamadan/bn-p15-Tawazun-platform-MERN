@@ -254,11 +254,11 @@ tawazun-platform/
 
 ### 🌐 الروابط الرسمية
 
-- **الموقع الرسمي**: [tawazun.site](https://tawazun.site)
+- **الموقع الرسمي**: [Tawazun](https://tawazun.bnramadan.com)
 
 ### 📧 التواصل المباشر
 
-- **البريد الإلكتروني**: info@tawazun.site
+- **البريد الإلكتروني**: [info](i.f.hive1@gmail.com)
 
 ---
 
